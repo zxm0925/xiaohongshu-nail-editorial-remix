@@ -1,0 +1,7 @@
+interface:
+  display_name: "Xiaohongshu Nail Editorial Remix"
+  short_description: "Turn credited nail posts into palette-matched editorial collages"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#8EA19C"
+  default_prompt: "Use $xiaohongshu-nail-editorial-remix to turn these credited nail images into a distinct editorial collage batch."
